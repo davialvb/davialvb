@@ -34,7 +34,7 @@
 
 I am a Data Scientist and Software Engineer at the prestigious [UnB](https://www.unb.br/) university from Brazil.  
 
-- 🔭 I’m currently working on [NAMA](https://www.nama.ai/)
+- 🔭 I’m currently working on [GUPY](https://www.gupy.io/)
 - 🌱 I’m currently learning NLP - Natural Language Processing
 - ⚡ I’m looking to collaborate on machine learning resources that support the Portuguese language
 
