@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="300"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/davi-alves/">
@@ -15,14 +13,9 @@
 </div>
 
 
-<div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=davialvb&style=flat-square&color=blue" alt=""/>
-</div>
 
 
-
-
-### Hello, I'm Davi 👋
+### Hello, I'm Davi Alves👋
 
 <!--
 **davialvb/davialvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,11 +48,5 @@ I am a Data Scientist and Software Engineer at the prestigious [UnB](https://www
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="40" height="40"/>&nbsp;
 </div>
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davialvb&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davialvb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
