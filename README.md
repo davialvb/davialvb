@@ -15,7 +15,7 @@
 
 
 
-### Hello, I'm Davi Alves👋
+### Hello, I'm Davi Bezerra
 
 <!--
 **davialvb/davialvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,11 +25,9 @@
 
 ### About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-I am a Data Scientist and Software Engineer at the prestigious [UnB](https://www.unb.br/) university from Brazil.  
-
-- 🔭 I’m currently working on [GUPY](https://www.gupy.io/)
-- 🌱 I’m currently learning NLP - Natural Language Processing
-- ⚡ I’m looking to collaborate on machine learning resources that support the Portuguese language
+- :mortar_board: I'm a Software Engineer at the University of Brasília ([UnB](https://www.unb.br/))
+- :computer: I'm currently working at [GUPY](https://www.gupy.io/) as a Data Scientist. 
+- :mag: I like to work with signal processing, stochastic processes and deep learning.
 
 ### :hammer_and_wrench: Languages and Tools :
 
