@@ -1,7 +1,7 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/davi-alves/">
+  <a href="https://www.linkedin.com/in/davialvb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/davialvb/">
@@ -25,9 +25,10 @@
 
 ### About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- :mortar_board: Software engineer from the University of Brasília (UnB) ([UnB](https://www.unb.br/))
+- :mortar_board: Software engineer from the University of Brasília ([UnB](https://www.unb.br/))
+- :mag: Currently pursuing a master's degree in computer science at the University of São Paulo ([USP](https://icmc.usp.br/))
 - :computer: Senior Data Scientist at [GUPY](https://www.gupy.io/). 
-- :mag: Currently pursuing a master's degree in computer science at the University of São Paulo (USP)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
