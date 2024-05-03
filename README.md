@@ -15,7 +15,7 @@
 
 
 
-### Hello, I'm Davi Bezerra
+### Davi Bezerra
 
 <!--
 **davialvb/davialvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,9 +25,9 @@
 
 ### About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
-- :mortar_board: I'm a Software Engineer at the University of Brasília ([UnB](https://www.unb.br/))
-- :computer: I'm currently working at [GUPY](https://www.gupy.io/) as a Data Scientist. 
-- :mag: I like to work with signal processing, stochastic processes and deep learning.
+- :mortar_board: Software engineer from the University of Brasília (UnB) ([UnB](https://www.unb.br/))
+- :computer: Senior Data Scientist at [GUPY](https://www.gupy.io/). 
+- :mag: Currently pursuing a master's degree in computer science at the University of São Paulo (USP)
 
 ### :hammer_and_wrench: Languages and Tools :
 
