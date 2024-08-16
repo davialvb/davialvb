@@ -23,11 +23,11 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davialvb)](https://github.com/davialvb)
 
-### About me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+### About me
 
 - :mortar_board: Software engineer from the University of Brasília ([UnB](https://www.unb.br/))
 - :mag: Currently pursuing a master's degree in computer science at the University of São Paulo ([USP](https://icmc.usp.br/))
-- :computer: Senior Data Scientist at [GUPY](https://www.gupy.io/). 
+- :computer: Senior Data Scientist
 
 
 ### :hammer_and_wrench: Languages and Tools :
