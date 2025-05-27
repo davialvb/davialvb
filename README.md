@@ -29,7 +29,7 @@
 
 - :mortar_board: Software engineer from the University of Brasília ([UnB](https://www.unb.br/))
 - :mag: Currently pursuing a master's degree in computer science at the University of São Paulo ([USP](https://icmc.usp.br/))
-- :computer: Senior Data Scientist
+- :computer: Senior Data Scientist at Ifood
 
 
 ### :hammer_and_wrench: Languages and Tools :
